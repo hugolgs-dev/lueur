@@ -1,0 +1,2 @@
+build/** linguist-vendored
+frontend/bindings/** linguist-generated
